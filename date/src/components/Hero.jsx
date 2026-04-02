@@ -311,6 +311,11 @@ export default function Hero() {
           <p style={{ fontStyle:"italic",color:"#a04060",fontSize:"clamp(0.95rem,3vw,1.1rem)",margin:0 }}>
             Get ready for the best date ever ✨
           </p>
+          <img
+            src="https://media.giphy.com/media/3oEdvaqMOF3VpCtzuo/giphy.gif"
+            alt="Curry shooting a 3"
+            style={{ width:"min(300px,80vw)", borderRadius:12, boxShadow:"0 12px 40px rgba(200,80,120,0.28)" }}
+          />
           <div style={{ fontSize:"clamp(2rem,8vw,3rem)", display:"flex", gap:"0.5rem", flexWrap:"wrap", justifyContent:"center", animation:"popIn 0.6s ease" }}>
             🌹💕🎊💖🌸🎉💗🌷💝
           </div>
